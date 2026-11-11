@@ -164,18 +164,6 @@ npm run dev
 Abra no navegador:
 Acesse o endereço exibido no terminal (geralmente http://localhost:5173).
 
-🌐 Como Publicar Gratuitamente na Vercel
-
-Suba este projeto para o seu repositório no GitHub.
-
-Crie uma conta ou faça login na Vercel usando seu GitHub.
-
-Clique em "Add New..." → "Project" e importe o repositório ostrembolono.
-
-Mantenha o preset do Vite padrão e clique em "Deploy".
-
-Em menos de 1 minuto seu site estará online com certificado HTTPS gratuito!
-
 👨‍💻 Autor
 
 Desenvolvido por dev.teylonkkjk ⚡
